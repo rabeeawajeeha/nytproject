@@ -1,7 +1,3 @@
-
-lakdsjf;kdsaljf# nytproject
-=======
 # nytproject
 
-/new change
-
+creating a new york times clone
