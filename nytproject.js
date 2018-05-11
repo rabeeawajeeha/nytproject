@@ -1,3 +1,5 @@
+console.log('hello')
+
 // Built by LucyBot. www.lucybot.com
 var url = "https://api.nytimes.com/svc/search/v2/articlesearch.json";
 url += '?' + $.param({
